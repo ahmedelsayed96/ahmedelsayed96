@@ -19,6 +19,7 @@ I'm a self-taught passionate Sofware Engineer from Egypt 🇪🇬
 
 #### Top Flutter Challenges 
 
-
+<div>
 <img src="https://github.com/ahmedelsayed96/Starbuckes-Card-Animation/raw/master/video/demo.gif" height="400" />
 <img src="https://github.com/ahmedelsayed96/Flutter-Fruits-Cart/raw/master/videos/demo.gif" height="400" />
+</div>
