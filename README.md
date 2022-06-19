@@ -7,7 +7,7 @@ I'm a self-taught passionate Sofware Engineer from Egypt 🇪🇬
 
 - 💼 Senior Sofware Engineer at [Obiekan](https://www.obeikan.com.sa/ods/)
 
-- ❤️ I love conding , and building fun experiments
+- ❤️ I love coding , and building fun experiments
 
 - 💬 Ask me about anything [here](https://github.com/ahmedelsayed96/ahmedelsayed96/issues)
 
