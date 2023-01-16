@@ -5,7 +5,7 @@ I'm a self-taught passionate Sofware Engineer from Egypt 🇪🇬
 
 **About me**
 
-- 💼 Senior Sofware Engineer at [Obiekan](https://www.obeikan.com.sa/ods/)
+- 💼 Senior Sofware Engineer at [EPAM](https://www.epam.com/)
 
 - ❤️ I love coding , and building fun experiments
 
